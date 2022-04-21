@@ -13,7 +13,23 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 Where can I get some?
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
+<<<<<<< HEAD
 
 Alterando o arquivo da develop
 Where can I get some?
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words 
+=======
+Alterando o arquivo na linha 15 e 16.
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac ullamcorper ipsum, a vestibulum justo. Mauris tristique tellus et ipsum egestas egestas. Fusce hendrerit facilisis risus sagittis dapibus. Sed justo neque, varius nec volutpat sed, accumsan sed erat. Duis lacinia volutpat mi, vitae venenatis nisl facilisis eget. Pellentesque id laoreet tortor. Suspendisse nunc dolor, interdum eu efficitur ut, varius sed enim. Mauris augue tortor, feugiat at nisl in, auctor interdum quam. Nunc et nunc commodo, egestas sapien et, faucibus diam. Sed sapien velit, scelerisque vel quam nec, semper pharetra libero. Nulla sagittis urna quis odio placerat, ut lacinia odio porta. Donec tempus iaculis nisi, ac lobortis sem egestas cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc vestibulum sit amet magna eget faucibus. Aliquam nec quam fermentum, condimentum sapien id, ullamcorper enim. Aenean augue orci, feugiat quis hendrerit vel, faucibus commodo elit.
+
+In efficitur viverra ex nec finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec lacinia erat scelerisque erat ornare, at suscipit sapien fermentum. Maecenas tempor vitae sapien nec pellentesque. Donec luctus mattis ligula, a commodo tellus vestibulum eu. Quisque facilisis commodo arcu et tincidunt. Donec iaculis ipsum eros, at condimentum ligula tincidunt at. Integer ornare, lorem et vestibulum rutrum, risus nisl ullamcorper dolor, id luctus ligula tellus ut tortor.
+
+Proin quis vehicula enim, nec vulputate odio. Mauris ornare, purus eget vehicula eleifend, purus nulla pretium felis, malesuada fermentum nisl mi id ligula. Sed accumsan eros id dui mattis cursus. Donec maximus tincidunt cursus. Morbi porta neque vel ultrices tincidunt. Aenean at lectus enim. Nullam pulvinar sed ex sit amet sodales.
+>>>>>>> a3401f1987d5c475b873027650a31838200358a0
+
+
+
+
+alterando novamente o arquivo da develop
