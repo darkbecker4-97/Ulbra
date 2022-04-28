@@ -1,7 +1,21 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nunc nunc, congue nec leo nec, euismod aliquam sapien. Aenean egestas sit amet orci sed ornare. Aenean eu imperdiet sem. Curabitur lacinia nisl et massa vestibulum aliquam. Nulla facilisi. Aliquam pharetra ex purus, sit amet auctor lacus venenatis et. Donec eget finibus dolor. In maximus ex eget lectus posuere dictum. Donec faucibus erat eget ex varius, eu porttitor nisi iaculis. Proin scelerisque tincidunt neque ultricies congue. Integer feugiat varius orci. Aenean tincidunt leo at lorem consectetur, et gravida libero hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam eget elit pharetra, gravida ligula non, egestas nibh. Aenean non elit convallis, pulvinar eros eget, sodales mauris. Phasellus at finibus ante.
+
+Sed porttitor dolor in laoreet consectetur. Ut pulvinar lectus tellus, a luctus nisl aliquam nec. Integer vel arcu eget arcu euismod vulputate a at leo. Nulla porttitor consequat urna, eget vehicula eros dictum ut. Maecenas sit amet tincidunt elit, nec vestibulum nisl. Sed facilisis velit in tempor rhoncus. Donec rhoncus congue ligula, eu gravida est rhoncus non. Sed tincidunt mauris dui, ut bibendum ipsum feugiat vitae. Nam vestibulum in leo ut vestibulum.
+
+Ut egestas, odio id ornare finibus, elit felis gravida felis, sed congue massa enim eget ante. Duis sed dolor cursus, molestie augue vitae, elementum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi gravida nisi ipsum, sit amet lacinia purus sollicitudin id. Aliquam eget semper nunc. Duis bibendum consequat vehicula. Morbi odio est, ultricies eu erat ut, bibendum facilisis mi. Pellentesque et ipsum ac nisl eleifend egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+Nam eget diam convallis, volutpat ante quis, malesuada lectus. Mauris et fermentum sapien. Vivamus aliquet sed erat et lacinia. Quisque nisi erat, eleifend vel tincidunt vulputate, facilisis sed magna. Vivamus in ipsum libero. Sed scelerisque ipsum sit amet placerat pellentesque. Pellentesque metus dolor, consectetur et risus eu, vestibulum tincidunt odio. Integer tincidunt enim sit amet placerat bibendum. Sed porta hendrerit rutrum. Donec quis est porta, porta libero sit amet, tempor lectus. Suspendisse sodales vel eros non mattis.
+
+Pellentesque pretium sagittis molestie. Nunc enim justo, mollis id finibus a, ornare sit amet nibh. Phasellus sit amet dolor non purus volutpat laoreet. Morbi sed leo cursus, dignissim ante at, bibendum magna. Fusce scelerisque nunc elit, at convallis augue euismod sed. Curabitur mauris ipsum, consectetur sit amet nulla non, interdum mollis ligula. Nulla facilisi. In ullamcorper aliquam metus, quis bibendum sapien facilisis at.
+
 What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 Why do we use it?
+ALTERANDO TEXTO DA LINHA 15
+
+ALTERANDO TEXTO DA LINHA 17
+
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
 
@@ -11,6 +25,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
 Where can I get some?
+<<<<<<< HEAD
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
 <<<<<<< HEAD
@@ -37,3 +52,6 @@ UMA ALTERAÇÃO FEITA AQUI, LOGO APÓS SERÁ ENVIADA PARA A BRANCH DEVELOPMENT U
 
 alterando novamente o arquivo da develop
 >>>>>>> 100e14480590eb2fc0b9581bf088bbaeb1f73fa7
+=======
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+>>>>>>> feature_2

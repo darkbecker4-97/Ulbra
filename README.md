@@ -2,6 +2,7 @@
 teste para aula de IAC
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # testanto merge
 teste merge
 
@@ -11,3 +12,5 @@ acrescentando texto na branche development
 # alterando feature_1
 alteração de texto feito na branch 
 >>>>>>> feature_1
+=======
+>>>>>>> feature_2
